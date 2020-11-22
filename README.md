@@ -1,6 +1,6 @@
 # gradient_descent_torch
 
-
+梯度下降torch实现
 
 batch_n = 1
 # 通过隐藏层后输出的特征数
